@@ -1,3 +1,3 @@
-# luffTodo
+# luffTask
 
-Luff To Do App made with React Native
+Luff Task App made with React Native
